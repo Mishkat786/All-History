@@ -1,0 +1,4 @@
+#Thu Dec 06 23:16:31 BDT 2018
+base.0=C\:\\Users\\user\\Downloads\\Compressed\\AllHistory2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
